@@ -2,9 +2,7 @@ python-dotenv
 langchain-groq==0.2.0
 groq==0.11.0
 openai==0.28
-#langchain==0.2.16
 langchain==0.3.1
-#langchain-community==0.2.12
 langchain-community==0.3.0
 langchain-experimental==0.3.1
 tiktoken==0.7.0
@@ -15,3 +13,7 @@ langchain-huggingface==0.1.0
 sentencepiece==0.2.0
 pandas==2.2.2
 docarray
+langchain_experimental
+numexpr
+wikipedia
+langchain_anthropic
