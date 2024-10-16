@@ -2,8 +2,13 @@
 
 ![logo.png](https://aihubtest-bucket.s3.eu-north-1.amazonaws.com/public/storage/images/6066/https---cdn.evbuc.com-images-125559383-317212851579-1-original.20210208-232017.png)
 
-Este repositório contém materiais e exemplos do curso **LangChain for LLM Application Development**. O curso explora o poderoso e extensível framework LangChain, incluindo prompts, parsing, memória, chains, perguntas e respostas, e agentes.
-O curso é gratuito e produzido por [deeplearning.ai](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction). Alguns codigos foram adaptados, modelos da OpenAI foram substituídos por modelos da Groq e da Hugging Face.
+- Este repositório contém materiais e exemplos do curso **LangChain for LLM Application Development**.
+
+- O curso explora o poderoso e extensível framework LangChain, incluindo prompts, parsing, memória, chains, perguntas e respostas, e agentes.
+
+- O curso é gratuito e produzido por [deeplearning.ai](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction).
+
+- Alguns códigos foram adaptados, modelos da OpenAI foram substituídos por modelos da Groq e da Hugging Face.
 
 ## Visão Geral do Curso
 
